@@ -450,13 +450,13 @@ footer .last {
   }
   .about-content {
     flex-direction: column;
-    height: 100%;
+    height: 70%;
   }
   .left {
     display: none;
   }
   .right {
-    width: 90%;
+    width: 50%;
   }
 
   .right p {
